@@ -1,0 +1,158 @@
+Q.1 Define a program to find out whether a given number is even or odd?
+
+    Input=10;
+    
+    Output=True
+
+
+    Input=21;
+ 
+    Output=False
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.2 A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.
+
+    input;
+ 
+    age=20 
+ 
+    output:
+
+    she is eligible to vote
+
+    age=14;
+
+    she is not eligible to vote
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.3  Write a program to print the sum of two numbers entered by user by defining your own method.
+
+     input;
+   
+     num1=10
+     num2=20
+
+     output;
+     sum=30
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.4 Define a method that returns the product of two numbers entered by user.
+
+    input:
+ 
+    num1=5
+
+    num2=5
+
+    output=5*5=25;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q.5 Define the methode to print maximum number among three numbers
+
+    Input;
+    
+    num1=15
+ 
+    num2=20
+
+    num3=9
+
+   output:
+
+   num2=20
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.6 Check the given number is prime or not?
+
+Prime number in Java: Prime number is a number that is greater than 1 and divided by 1 or itself only. In other words, prime numbers can't be divided by other numbers than itself or 1. For example 2, 3, 5, 7, 11, 13, 17.... are the prime numbers.
+
+
+Input;
+number=5
+
+output:
+it is a prime number
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q.7 Given number is a perfect number or not?
+
+A number whose sum of factors (excluding the number itself) is equal to the number is called a perfect number. In other words, if the sum of positive divisors (excluding the number itself) of a number equals the number itself is called a perfect number. Let's understood it through an example.
+
+Input;
+
+6
+
+Output; (2+4=6)
+
+it's a perfect number
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.8 Given number is Armstrong or not?
+
+An Armstrong number is a positive m-digit number that is equal to the sum of the mth powers of their digits. It is also known as pluperfect, or Plus Perfect, or Narcissistic number. It is an OEIS sequence A005188. Let’s understand it through an example.
+
+Armstrong Number Example
+1: 11 = 1
+
+2: 21 = 2
+
+3: 31 = 3
+
+153: 13 + 53 + 33 = 1 + 125+ 27 = 153 
+
+153 is a armstrong number
+
+Input;
+
+153
+
+output;
+
+153 is a armstrong number
+
+input;
+
+121
+
+output;
+121 is not a armstrong number
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q9 Write a program to  prints all the Armstrong numbers up to the specified limit.
+
+Enter the first number ::
+1
+Enter the second number ::
+200
+1 is an Armstrong number.
+153 is an Armstrong number.
+
+print the all armstrong numbers between 1 to 200;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.10 
+
+Reverse an intiger
+
+Input:
+
+45612
+
+Output:
+
+21654
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+///////////////////////////////////// NOTE//////////////////////////////////////////////////////
+
+
+Convert the programs in conditionals & loops assignments into functions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+  
+
