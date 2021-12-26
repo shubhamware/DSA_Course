@@ -1,0 +1,437 @@
+Q1.Apply simple Binary search for ascending sorted array?
+   
+search index of 59 element in given below array? 
+
+Input:   int[] arr={12,25,39,42,59,62};
+
+Output: 4 
+
+search index of 115 element in given below array? 
+
+Input:   int[] arr={3,9,36,42,96,111};
+
+Output: -1;  
+
+Note: if the search element is not present in the given array just return -1;
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+Q2 Apply simple Binary search for descending sorted array?
+   
+search index of 12 element in given below array? 
+
+Input:   int[] arr={18,12,10,8,6,4,2};
+
+Output: 1 
+
+search index of 13 element in given below array? 
+
+Input:   int[] arr={18,12,10,8,6,4,2};
+
+Output: -1;  
+
+Note: if the search element is not present in the given array just return -1;
+
+_______________________________________________________________________________________________________________________________________________________________________
+Q3 Cieling of a number ?
+
+   
+
+Cieling: smallest elemrnt in array greater or equal to target?
+
+Input:  arr=[3,9,11,13,16,18]
+
+        if target is 14;
+
+        then the element in array which is greater or equal to target is 16;
+           
+Output:  Just return 16;
+
+     
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q4 Find the floor of number?
+
+   floor: greatest number smaller or equal to target
+
+Input: arr=[1,4,9,11,13,16,18]
+
+       target=14;
+
+Output: 13
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q5 Find First and last occurrence of target element?
+
+target = 2;
+
+Input: arr=[0,0,1,1,2,2,2,2]
+
+
+Output: 4,7
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q6 Find Square root of a number by using Binary search?
+
+Input; 81:
+
+Output: 9
+
+
+Input:37
+
+Output 6 ( return near square root)
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q7 Order-Agnostic Binary Search?
+
+
+first to check the array is in ascending order or descending order according to these condition apply binary search algorithm.
+
+Give condition such that if arr[start]<arr[end];
+
+                             then array is in ascending order 
+                              
+                             Apply  ascending binary search
+                              
+                         else{
+                              array is in descending order
+     
+                              apply descending binary search
+
+
+                              
+Input:
+
+ int[] arr={-9,-3,0,2,9,12,16,18,24};
+        int target=24;
+
+
+Output: 8
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q8 find the peak element in Bitonic array? 
+  
+   find the index of largest number(Peak) in array.
+
+Input=   int[] arr={2,6,9,15,14,12,8,4,1};
+ 
+Output= 3
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+   
+Q9 Find the index of an element in mountain array?
+
+   Input: int arr[] ={1,2,3,4,5,3,1}
+
+   Target:3
+
+   Output: 2
+
+
+  3 exists in the array at index=2 and index=5 return the minimum index which is 2;
+
+   Input: int arr[] ={1,2,3,4,5,3,1}
+
+   Target:0
+
+   Output: -1
+
+   if element not exist in array then return -1;
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q10  Count of an element in sorted array?
+
+Input:
+        int[] arr={2,4,10,10,10,18,20};
+        int target=10;
+
+Output: 3
+
+_______________________________________________________________________________________________________________________________________________________________________
+       
+Q11  Find the number of times a sorted array is rotated 
+
+the given array is rotated sorted array
+
+1. find the piviot in array 
+
+Pivot means the smallest element in array 
+
+2. Index of an smallest element in array is 4.i.e 2  
+
+3. The index of an smallest element in the given array is the answer of the Question.
+
+
+Input : int[] arr={11,12,15,18,2,5,6,8}; 
+                               |
+
+Output: 4  
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Q.12 Find the element in Rotated sorted array ?
+
+Input:  int[] arr={4,5,6,7,8,0,1,2,3};
+                   | | | | | | | | |
+        Indexing:  0 1 2 3 4 5 6 7 8
+
+Target: find the index element of 5;
+
+Output: 1
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
